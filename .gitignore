@@ -1,11 +1,1 @@
-bin/
-obj/
-.vs/
-MarkdownViewer/Resources/libsundown.dylib
-*.userprefs
-.DS_Store
-packages/
-*.lock.json
-*.nuget.props
-*.nuget.targets
-.vscode/settings.json
+Bdhdjdunc
